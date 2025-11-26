@@ -85,7 +85,7 @@ t1.from(".line h1",{
       
     },"-=1.2");
 }
-// loader()
+loader()
 
 
 function cursorAnimation(){
